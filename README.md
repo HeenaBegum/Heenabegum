@@ -20,7 +20,7 @@
 
 - <a href="https://public.tableau.com/app/profile/heena.begum4134/vizzes">Data Visualizations</a>
 
-[![Linkedin: Heena Begum]](https://www.linkedin.com/in/nikoseino/)
+[![Linkedin]](https://www.linkedin.com/in/heena-begum-7a4222138/))
 [![GitHub Heena Begum ]](https://github.com/HeenaBegum)
 
 
