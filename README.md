@@ -19,8 +19,7 @@
 - <a href="https://github.com/HeenaBegum/Google-Data-analytics-Bella-Beat-case-study">Google Data Analytics Certification Project </a>
 
 - <a href="https://public.tableau.com/app/profile/heena.begum4134/vizzes">Data Visualizations</a>
-[Linkedin]](https://www.linkedin.com/in/heena-begum-7a4222138/))
-[GitHub]](https://github.com/HeenaBegum)
+
 
 
 <!--
