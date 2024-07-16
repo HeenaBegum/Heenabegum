@@ -12,7 +12,7 @@
 
 #### Links:
 
-- <a https://github.com/HeenaBegum/Python-Projects">Python Projects </a>
+- <a href=" https://github.com/HeenaBegum/Python-Projects">Python Projects </a>
 - <a href="https://github.com/HeenaBegum/Google-Data-analytics-Bella-Beat-case-study">Google Data Analytics Certification Project </a>
 - <a href="https://public.tableau.com/app/profile/heena.begum4134/vizzes">Data Visualizations</a>
 
