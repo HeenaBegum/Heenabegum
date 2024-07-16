@@ -12,12 +12,8 @@
 
 #### Links:
 <!---
-- <a href="https://github.com/NikoSeino/Data-Analysis-in-R">R Projects </a>
-- <a href="https://github.com/NikoSeino/Python-Projects">Python Projects </a>
-- <a href="https://github.com/NikoSeino/machine-learning">Machine Learning Projects </a>≈≈˛˛¸
-- <a href="https://github.com/NikoSeino/Business-Analytics">Business Analysis Projects </a>--->
+- <a https://github.com/HeenaBegum/Python-Projects">Python Projects </a>
 - <a href="https://github.com/HeenaBegum/Google-Data-analytics-Bella-Beat-case-study">Google Data Analytics Certification Project </a>
-
 - <a href="https://public.tableau.com/app/profile/heena.begum4134/vizzes">Data Visualizations</a>
 
 
