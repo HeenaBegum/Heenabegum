@@ -5,7 +5,7 @@
 
 
 #### About me:
-- Data Analyst at Roche/Recent Data Analytics graduate / teaching assistant for Clark University for Data Analytics course
+- Data Analyst at NYPA/Recent Data Analytics graduate / teaching assistant for Clark University for Data Analytics course
 - Languages/Tools: SAS, AWS,SQL, R, Python, DAX, Tableau, Power BI
 - Currently learning: machine learning w/ Scikit-Learn and TensorFlow; ETL and data pipelines with Apache Airflow and Kafka
 
