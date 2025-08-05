@@ -6,7 +6,7 @@
 
 #### About me:
 👩‍💻 About Me
-I’m a Data Analyst with a strong foundation in analytics, data governance, and business intelligence—paired with a growing focus on AI strategy and machine learning. I currently work at ICBC, and my previous roles include:
+I’m a Data Analyst with a strong foundation in analytics, data governance, and business intelligence-paired with a growing focus on AI strategy and machine learning. I currently work at ICBC, and my previous roles include:
 
 - Data Governance & Analytics at the New York Power Authority
 
