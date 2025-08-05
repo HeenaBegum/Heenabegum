@@ -5,14 +5,25 @@
 
 
 #### About me:
-- I’m a Data Analyst with hands-on experience across diverse industries, including finance, energy, and healthcare. Currently working at ICBC, I bring a strong foundation in data analytics, data governance, and business intelligence.
+👩‍💻 About Me
+I’m a Data Analyst with a strong foundation in analytics, data governance, and business intelligence—paired with a growing focus on AI strategy and machine learning. I currently work at ICBC, and my previous roles include:
 
-- Previously, I supported Data Governance and Analytics initiatives at the New York Power Authority, and contributed as a Marketing Analyst at CVS, focusing on customer segmentation, campaign performance, and reporting strategies.
+- Data Governance & Analytics at the New York Power Authority
 
-- I also served as a Teaching Assistant for Clark University’s Data Analytics program, helping students navigate core concepts and tools in analytics.
-- Languages/Tools: SAS, AWS,SQL, R, Python, DAX, Tableau, Power BI, Data Lineage, Collibra
-- Currently learning: machine learning w/ Scikit-Learn and TensorFlow; ETL and data pipelines with Apache Airflow and Kafka
+- Marketing Analyst at CVS Health, focusing on campaign performance and customer segmentation
 
+- Teaching Assistant for Clark University’s Data Analytics program
+
+🔍 Interests & Focus Areas
+In addition to my work in analytics, I’m passionate about the intersection of AI and business strategy. I'm actively developing skills to become an AI Business Analyst, focusing on:
+
+- AI Basics & Strategy
+
+- Machine Learning Foundations
+
+- AI Ethics & Interpretability
+
+- AI-Powered Dashboards & Insights
 
 #### Links:
 
