@@ -5,8 +5,12 @@
 
 
 #### About me:
-- Data Analyst at NYPA/Recent Data Analytics graduate / teaching assistant for Clark University for Data Analytics course
-- Languages/Tools: SAS, AWS,SQL, R, Python, DAX, Tableau, Power BI
+- I’m a Data Analyst with hands-on experience across diverse industries, including finance, energy, and healthcare. Currently working at ICBC, I bring a strong foundation in data analytics, data governance, and business intelligence.
+
+Previously, I supported Data Governance and Analytics initiatives at the New York Power Authority, and contributed as a Marketing Analyst at CVS, focusing on customer segmentation, campaign performance, and reporting strategies.
+
+I also served as a Teaching Assistant for Clark University’s Data Analytics program, helping students navigate core concepts and tools in analytics.
+- Languages/Tools: SAS, AWS,SQL, R, Python, DAX, Tableau, Power BI, Data Lineage, Collibra
 - Currently learning: machine learning w/ Scikit-Learn and TensorFlow; ETL and data pipelines with Apache Airflow and Kafka
 
 
